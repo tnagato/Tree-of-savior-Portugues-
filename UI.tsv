@@ -1,4 +1,4 @@
-UI_20150317_000001	{@st41b}Adquirir Atributos{nl}ddos mestres de cada classe.{/}
+UI_20150317_000001	{@st41b}Adquirir Atributos{nl}dos mestres de cada classe.{/}
 UI_20150317_000002	{@st43}Lista {/}
 UI_20150317_000003	{@st59}Fechar {/}
 UI_20150317_000004	{@st43}Adquirir Atributos{/}
@@ -18,7 +18,7 @@ UI_20150317_000017	{@St59}Fechar Leilão{/}
 UI_20150317_000018	{@St41b}Itens vendidos : %s ea, Itens não vendidos : %s ea{/}
 UI_20150317_000019	{@St43}{s22}Leilão de itens{/}
 UI_20150317_000020	{@st59}Fechar informações de quest{/}
-UI_20150317_000021	Abe dias restantes
+UI_20150317_000021	Dias restantes
 UI_20150317_000022	{@St41b}Tempo restante
 UI_20150317_000023	3 horas 16 minutos
 UI_20150317_000024	{@St41b}Preço inicial
@@ -1696,7 +1696,7 @@ UI_20150717_001695	{@st41b}{s56}Este jogo é {#0066FF}
 UI_20150717_001696	Classificado T.
 UI_20150717_001697	{s40} {nl}Jogar o jogo por muitas horas pode impactar negativamente na sua saúde.{/}e
 UI_20150717_001698	{@st66b}Entrar
-UI_20150717_001699	{@st42}informações da invocação
+UI_20150717_001699	{@st42}Informações da invocação
 UI_20150717_001700	A sua velocidade de movimento diminui quando você não tem mais{@st59}STA{/}
 UI_20150717_001701	{@st59}Organizar inventário{/}
 UI_20150717_001702	Organizar
@@ -1787,14 +1787,14 @@ UI_20150918_001786	{#000000}Contador de entrada{/}	{#000000}입장 회수{/}
 UI_20150918_001787	{#000000}O número de entradas vai resetar em %s.{/}	{#000000}입장 횟수는 %s시에 초기화 됩니다.{/}				
 UI_20150918_001788	{img silver 20 20} Preço	{img silver 20 20} 받는 가격				
 UI_20150918_001789	Informações de grupos próximos	주변 파티 정보				
-UI_20150918_001790	Fragmentos necesários : %s 	필요 파편 : %s개	UI_20150729_001740	{memo X}Fragments needed : Mutant %s / Beast %s / Plant %s	필요 파편 : 변이 %s개 / 야수 %s개 / 식물 %s개	
+UI_20150918_001790	Fragmentos necessários : %s 	필요 파편 : %s개	UI_20150729_001740	{memo X}Fragments needed : Mutant %s / Beast %s / Plant %s	필요 파편 : 변이 %s개 / 야수 %s개 / 식물 %s개	
 UI_20150918_001791	{@st66b}Vazio	{@st66b}비우기				
 UI_20150918_001792	{@st42}Mostrar grupos próximos{/}	{@st42}주변 파티 정보 표시{/}				
 UI_20150918_001793	Amizade com {@sti9}%s{@st66b} : {@st66b}Level{/} {@sti9}%s {@st66b}	{@sti9}%s{@st66b}과의 친밀도 : {@sti9}%s {@st66b}레벨{/}	UI_20150317_000480	{@sti9}%s{@st41b}Proximidade : {@sti9}%s {@st41b}Level{/}	{@sti9}%s{@st41b}과의 친밀도 : {@sti9}%s {@st41b}레벨{/}	
 UI_20150918_001794	Amizade	친밀도	UI_20150317_000483	{@st41b}Closeness{/}	{@st41b}친밀도{/}	
 UI_20150918_001795	{@st41b}Obtido material para criar o item!	{@st41b}제작 아이템 재료 획득!				
 UI_20150918_001796	{@st66b}{s20}Você se tornou {/}{s20}{#cc6600}{ol}Incapable of Combat {/}{@st66b}{s20}!{/}	{@st66b}{s20}당신은 {/}{s20}{#cc6600}{ol}전투 불능 {/}{@st66b}{s20}상태가 되었습니다!{/}	UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}	{@st41b}당신은 {/}{s20}{#cc6600}{ol}전투 불능 {/}{@st41b}상태가 되었습니다!{/}	
-UI_20150918_001797	{@st66b}Reiniciar a partir do ponto de ressusitação mais próximo{/}	{@st66b}가까운 부활지점에서 다시하기{/}	UI_20150317_000606	{@st41b}Respawn from the nearest Revival Point{/}	{@st41b}가까운 부활지점에서 다시하기{/}	
+UI_20150918_001797	{@st66b}Reiniciar a partir do ponto de ressuscitação mais próximo{/}	{@st66b}가까운 부활지점에서 다시하기{/}	UI_20150317_000606	{@st41b}Respawn from the nearest Revival Point{/}	{@st41b}가까운 부활지점에서 다시하기{/}	
 UI_20150918_001798	{@st66b}Reiniciar aqui (requires %s iCoins){/}	{@st66b}제자리에서 다시하기(NXP %s개 필요){/}	UI_20150317_000607	{@st41b}Respawn here (requires %s iCoins) {/}	{@st41b}제자리에서 다시하기(NXP %s개 필요){/}	
 UI_20150918_001799	{@st66b}Retornar ao campo{/}	{@st66b}필드로 복귀하기{/}	UI_20150317_000608	{@st41b}Return to field{/}	{@st41b}필드로 복귀하기{/}	
 UI_20150918_001800	{@st66b}Abandonar a quest e tentar novamente{/}	{@st66b}퀘스트 포기 후 재시작하기{/}	UI_20150317_000609	{@st41b}Abandon quest and restart{/}	{@st41b}퀘스트 포기 후 재시작하기{/}	
@@ -1803,7 +1803,7 @@ UI_20150918_001802	{@st66b}Itens vendidos{/}	{@st66b}내가 판매한 아이템{
 UI_20150918_001803	{@st53}Pontos do rank : %s	{@st53}랭킹포인트 : %s				
 UI_20150918_001804	Total inegociável: %s	총 거래 불가: %s개				
 UI_20150918_001805	{@st42b}Checar Dialogo{/}	{@st42b}대사 확인{/}				
-UI_20150918_001806	{@st66b}Dar comida oas de fora do grupo{/}	{@st66b}파티원 외 음식 제공{/}				
+UI_20150918_001806	{@st66b}Dar comida aos de fora do grupo{/}	{@st66b}파티원 외 음식 제공{/}				
 UI_20150918_001807	{@st41b}Alterar título	{@st41b}간판이름변경				
 UI_20150918_001808	{@sti9}Meu rank	{@sti9}내 랭킹				
 UI_20150918_001809	{@sti9}Rank de mortes	{@sti9}킬 랭킹				
